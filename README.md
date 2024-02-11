@@ -1,6 +1,6 @@
 ```json
 {
-    "th3rdctrl": {
+    "shutupthio": {
         "type": "human",
         "name": {
             "firstName": "Thio",
